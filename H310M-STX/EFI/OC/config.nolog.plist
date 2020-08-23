@@ -682,7 +682,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>brcmfx-driver=2 brcmfx-country=US brcmfx-aspm</string>
+				<string>-v keepsyms=1 debug=0x100 brcmfx-driver=2 brcmfx-country=US brcmfx-aspm</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
