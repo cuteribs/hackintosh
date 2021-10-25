@@ -1,0 +1,1 @@
+# hackintosh (ASUS PN62 i7-10510U)
